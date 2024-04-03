@@ -1,2 +1,2 @@
-Hellp word!
+Hello word!
 Bye-bye
